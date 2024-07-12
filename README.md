@@ -4,6 +4,7 @@
 <strong>-->Actual Methodology of the App</strong>
 <p>◼ The Optical Character Recognition is a technology that allows a gadget to create text strings out of scanned images or, in our case, an image that is captured with a user’s smart phone/tablet.</p>
 <p>◼ The objective of our application is to achieve modification or conversion of any form of text or text-containing documents such as printed or scanned text images, into an editable digital format for deeper and further processing.</p>
+<br>
 <p>Our Application will run according to three major steps:
 
 <strong>1. Text Detection:</strong> Firstly the app will go through the image and find the
