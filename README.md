@@ -21,3 +21,14 @@ individual characters, we can then run a classifier which looks at the images of
 the individual characters and tries to figure out the letters. And so on, till you
 find out what all the characters are and what the entire text is.</p>
 <br>
+
+<strong>-->APP OUTPUTS</strong>
+<p>UI of Home Page</p>
+<table><tr>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Forwarding" src="/outputs/HomePageUI.jpg" width="900">
+    <br>
+  </p> 
+</td>
+</tr></table>
