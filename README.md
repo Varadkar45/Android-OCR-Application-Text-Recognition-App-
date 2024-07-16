@@ -27,7 +27,7 @@ find out what all the characters are and what the entire text is.</p>
 <table><tr>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="/outputs/HomePageUI.jpg" width="900">
+    <img alt="Forwarding" src="/outputs/HomePageUI.jpg" height = "100" width="900">
     <br>
   </p> 
 </td>
