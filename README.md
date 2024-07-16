@@ -26,8 +26,8 @@ find out what all the characters are and what the entire text is.</p>
 <p>UI of Home Page</p>
 <table><tr>
 <td> 
-  <p align="center" style="padding: 10px">
-    <img alt="Forwarding" src="/outputs/HomePageUI.jpg" height = "600" width="400">
+  <p align="left" style="padding: 10px">
+    <img alt="Homepage" src="/outputs/HomePageUI.jpg" height = "600" width="400">
     <br>
   </p> 
 </td>
