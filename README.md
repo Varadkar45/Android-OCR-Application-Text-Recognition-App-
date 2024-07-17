@@ -25,9 +25,13 @@ find out what all the characters are and what the entire text is.</p>
 <strong>-->APP OUTPUTS</strong>
 <p>UI of Home Page</p>
 <table><tr>
-<td> 
+<td>
   <p align="left" style="padding: 10px">
     <img alt="Homepage" src="/outputs/HomePageUI.jpg" height = "600" width="400">
+    <br>
+  </p> 
+  <p align="right" style="padding: 10px">
+    <img alt="permissions" src="/outputs/permissions.jpg" height = "600" width="400">
     <br>
   </p> 
 </td>
