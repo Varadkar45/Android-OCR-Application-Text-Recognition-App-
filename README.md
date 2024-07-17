@@ -34,7 +34,7 @@ find out what all the characters are and what the entire text is.</p>
     <img alt="permissions" src="/outputs/permissions.jpg" height = "600" width="300">
     <br>
   </p>  -->
-  <img align="left" alt="Coding" width="386" src="/outputs/HomePageUI.jpg">
-  <img align="right" alt="Coding" width="386" src="/outputs/permissions.jpg">
+  <img align="left" alt="Coding" width="385" src="/outputs/HomePageUI.jpg">
+  <img align="right" alt="Coding" width="385" src="/outputs/permissions.jpg">
 </td>
 </tr></table>
