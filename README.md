@@ -27,11 +27,11 @@ find out what all the characters are and what the entire text is.</p>
 <table><tr>
 <td>
   <p align="left" style="padding: 10px">
-    <img alt="Homepage" src="/outputs/HomePageUI.jpg" height = "600" width="400">
+    <img alt="Homepage" src="/outputs/HomePageUI.jpg" height = "600" width="300">
     <br>
   </p> 
   <p align="right" style="padding: 10px">
-    <img alt="permissions" src="/outputs/permissions.jpg" height = "600" width="400">
+    <img alt="permissions" src="/outputs/permissions.jpg" height = "600" width="300">
     <br>
   </p> 
 </td>
