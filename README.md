@@ -26,13 +26,15 @@ find out what all the characters are and what the entire text is.</p>
 <p>UI of Home Page</p>
 <table><tr>
 <td>
-  <p align="left" style="padding: 10px">
+  <!-- <p align="left" style="padding: 10px">
     <img alt="Homepage" src="/outputs/HomePageUI.jpg" height = "600" width="300">
     <br>
   </p> 
   <p align="right" style="padding: 10px">
     <img alt="permissions" src="/outputs/permissions.jpg" height = "600" width="300">
     <br>
-  </p> 
+  </p>  -->
+  <img align="left" alt="Coding" width="400" src="/outputs/HomePageUI.jpg">
+  <img align="right" alt="Coding" width="400" src="/outputs/permissions.jpg">
 </td>
 </tr></table>
