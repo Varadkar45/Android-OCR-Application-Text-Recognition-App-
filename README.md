@@ -34,7 +34,12 @@ find out what all the characters are and what the entire text is.</p>
     <img alt="permissions" src="/outputs/permissions.jpg" height = "600" width="300">
     <br>
   </p>  -->
-  <img align="left" alt="Coding" width="380" src="/outputs/HomePageUI.jpg">
-  <img align="right" alt="Coding" width="380" src="/outputs/permissions.jpg">
+  <img align="left" alt="Homepage" width="380" src="/outputs/HomePageUI.jpg">
+  <img align="right" alt="permissions" width="380" src="/outputs/permissions.jpg">
+</td>
+<p>Use Case of App</p>
+<td>
+  <img align="left" alt="Homepage" width="380" src="/outputs/Imageselection.jpg">
+  <img align="right" alt="permissions" width="380" src="/outputs/DetectedTextFromImage.jpg">
 </td>
 </tr></table>
