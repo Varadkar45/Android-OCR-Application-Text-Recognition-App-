@@ -24,6 +24,7 @@ find out what all the characters are and what the entire text is.</p>
 
 <strong>-->APP OUTPUTS</strong>
 <p>UI of Home Page</p>
+<p>For Printed Text</p>
 <table><tr>
 <td>
   <!-- <p align="left" style="padding: 10px">
