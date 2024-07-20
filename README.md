@@ -40,10 +40,19 @@ find out what all the characters are and what the entire text is.</p>
 </td>
 </tr></table>
 <p>Use Case of App</p>
+<p>For Printed Image</p>
 <table><tr>
 <td>
   <img align="left" alt="Homepage" width="380" src="/outputs/Imageselection.jpg">
   <img align="right" alt="permissions" width="380" src="/outputs/DetectedTextFromImage.jpg">
+</td>
+</tr></table>
+<p>Use Case of App</p>
+<p>For Handwritten Image</p>
+<table><tr>
+<td>
+  <img align="left" alt="Homepage" width="380" src="/outputs/HandwrittenTextImageselection.jpg">
+  <img align="right" alt="permissions" width="380" src="/outputs/HandwrittenDetectedTextFromImage.jpg">
 </td>
 </tr></table>
 
