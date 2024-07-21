@@ -47,7 +47,6 @@ find out what all the characters are and what the entire text is.</p>
   <img align="right" alt="permissions" width="380" src="/outputs/DetectedTextFromImage.jpg">
 </td>
 </tr></table>
-<p>Use Case of App</p>
 <p>For Handwritten Image</p>
 <table><tr>
 <td>
