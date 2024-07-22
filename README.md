@@ -22,6 +22,12 @@ the individual characters and tries to figure out the letters. And so on, till y
 find out what all the characters are and what the entire text is.</p>
 <br>
 
+<strong>-->TECH STACK</strong>
+
+- **Technologies Used:** Java, Firebase ML Kit, Android Studio
+
+
+
 <strong>-->APP OUTPUTS</strong>
 <p>UI of Home Page</p>
 <p>For Printed Text</p>
