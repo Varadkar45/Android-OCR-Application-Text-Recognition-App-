@@ -26,8 +26,6 @@ find out what all the characters are and what the entire text is.</p>
 
 - **Technologies Used:** Java, Firebase ML Kit, Android Studio
 
-
-
 <strong>-->APP OUTPUTS</strong>
 <p>UI of Home Page</p>
 <p>For Printed Text</p>
@@ -46,7 +44,7 @@ find out what all the characters are and what the entire text is.</p>
 </td>
 </tr></table>
 <p>Use Case of App</p>
-<p>For Printed Image</p>
+<p>Printed Image Text Detection</p>
 <table><tr>
 <td>
   <img align="left" alt="Homepage" width="380" src="/outputs/Imageselection.jpg">
