@@ -51,7 +51,7 @@ find out what all the characters are and what the entire text is.</p>
   <img align="right" alt="permissions" width="380" src="/outputs/DetectedTextFromImage.jpg">
 </td>
 </tr></table>
-<p>For Handwritten Image</p>
+<p>Handwritten Image Text Detection</p>
 <table><tr>
 <td>
   <img align="left" alt="Homepage" width="380" src="/outputs/HandwrittenTextImageselection.jpg">
